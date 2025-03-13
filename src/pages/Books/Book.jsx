@@ -111,7 +111,7 @@ const pages = [
         </p>
       </>
     ),
-    backContent: <p>Will You be Mine? ❤️</p>,
+    backContent: <p>Always stay with me ❤️</p>,
   },
   {
     frontContent: <img src="./44.png" alt="Image 3" className="image" />,
@@ -120,7 +120,7 @@ const pages = [
         <h3>Cutest Queen 👸❤️</h3>
         <p>
           You are the most special person in my life, and I’m beyond grateful for you.  
-          **Happy Birthday once again, my love! 🎂❤️**  
+          **Happy Birthday once again, Madam Ji! 🎂❤️**  
         </p>
         <p>Your's truly,<br /> Truly your's : Rupesh </p>
       </>
