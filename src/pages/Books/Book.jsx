@@ -29,7 +29,7 @@ const pages = [
     cover: true,
     frontContent: (
       <>
-        <h1 className="title">Happy Birthday, My Love! 🎂❤️</h1>
+        <h1 className="title">Happy Birthday, Madam Ji! 🎂❤️</h1>
         <p className="subtitle">Rupesh</p>
       </>
     ),
